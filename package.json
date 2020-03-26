@@ -1,0 +1,23 @@
+{
+  "name": "fx_js_by_Mfogus_notes",
+  "version": "1.0.0",
+  "description": ":link: [github repo of the book][gitBook] :link:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardonacoder/fx_js_by_Mfogus_notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cardonacoder/fx_js_by_Mfogus_notes/issues"
+  },
+  "homepage": "https://github.com/cardonacoder/fx_js_by_Mfogus_notes#readme",
+  "dependencies": {
+    "underscore": "^1.9.2"
+  }
+}
