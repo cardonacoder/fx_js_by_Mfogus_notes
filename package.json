@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cardonacoder/fx_js_by_Mfogus_notes#readme",
   "dependencies": {
-    "underscore": "^1.9.2"
+    "underscore": "^1.12.1"
   }
 }
